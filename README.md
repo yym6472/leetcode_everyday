@@ -3,5 +3,5 @@
 
 ## 目录
 
-线段数组：
+树状数组：
 - [532 reverse pairs](2020-08-26/532%20reverse-pairs.md)
