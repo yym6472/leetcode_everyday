@@ -1,5 +1,7 @@
 ## 介绍
 
+- 链接：[https://www.lintcode.com/problem/count-of-range-sum/](https://www.lintcode.com/problem/count-of-range-sum/)
+
 这道题要求的是：给定一个数组，求满足区间和在`[lower, upper]`之间的**所有区间个数**。
 
 ## 解法
