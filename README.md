@@ -19,6 +19,7 @@
 
 栈、队列和优先队列（堆）
 - [81 find median from data stream](2020-09-03/81%20find%20median%20from%20data%20stream.md)
+- [122 largest rectangle in histogram](2020-09-05/122%20largest%20rectangle%20in%20histogram.md)
 
 并查集
 - [434 number of islands ii](2020-09-04/434%20number%20of%20islands%20ii.md)
