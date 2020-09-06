@@ -23,3 +23,4 @@
 
 并查集
 - [434 number of islands ii](2020-09-04/434%20number%20of%20islands%20ii.md)
+- [590 connecting graph ii](2020-09-06/590%20connecting%20graph%20ii.md)
