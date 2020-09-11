@@ -32,3 +32,6 @@
 
 二分查找
 - [183 wood cut](2020-09-08/183%20wood%20cut.md)
+
+区间动态规划
+- [168 burst balloons](2020-09-11/168%20burst%20balloons.md)
