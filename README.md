@@ -22,6 +22,7 @@
 - [122 largest rectangle in histogram](2020-09-05/122%20largest%20rectangle%20in%20histogram.md)
 - [362 sliding window maximum](2020-09-09/362%20sliding%20window%20maximum.md)
 - [612 k closest points](2020-09-10/612%20k%20closest%20points.md)
+- [486 merge k sorted arrays](2020-09-12/486%20merge%20k%20sorted%20arrays.md)
 
 并查集
 - [434 number of islands ii](2020-09-04/434%20number%20of%20islands%20ii.md)
