@@ -27,6 +27,7 @@
 并查集
 - [434 number of islands ii](2020-09-04/434%20number%20of%20islands%20ii.md)
 - [590 connecting graph ii](2020-09-06/590%20connecting%20graph%20ii.md)
+- [629 minimum spanning tree](2020-09-13/629%20minimum%20spanning%20tree.md)
 
 同向双指针
 - [928 longest substring with at most two distinct characters](2020-09-07/928%20longest%20substring%20with%20at%20most%20two%20distinct%20characters.md)
