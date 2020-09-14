@@ -31,6 +31,7 @@
 
 同向双指针
 - [928 longest substring with at most two distinct characters](2020-09-07/928%20longest%20substring%20with%20at%20most%20two%20distinct%20characters.md)
+- [32 minimum-window-substring](2020-09-14/32%20minimum-window-substring.md)
 
 二分查找
 - [183 wood cut](2020-09-08/183%20wood%20cut.md)
