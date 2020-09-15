@@ -16,6 +16,7 @@
 
 深度优先搜索
 - [90 k sum ii](2020-09-02/90%20k%20sum%20ii.md)
+- [1681 cut the cake](2020-09-15/1681%20cut%20the%20cake.md)
 
 栈、队列和优先队列（堆）
 - [81 find median from data stream](2020-09-03/81%20find%20median%20from%20data%20stream.md)
