@@ -24,6 +24,7 @@
 - [lintcode 362 sliding window maximum](2020-09-09/362%20sliding%20window%20maximum.md)
 - [lintcode 612 k closest points](2020-09-10/612%20k%20closest%20points.md)
 - [lintcode 486 merge k sorted arrays](2020-09-12/486%20merge%20k%20sorted%20arrays.md)
+- [leetcode 1046 last stone weight](2020-09-16/1046%20last%20stone%20weight.md)
 
 并查集
 - [lintcode 434 number of islands ii](2020-09-04/434%20number%20of%20islands%20ii.md)
