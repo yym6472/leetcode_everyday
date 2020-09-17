@@ -11,7 +11,6 @@
 广度优先搜索：
 - [lintcode 120 word ladder](2020-08-29/120%20word-ladder.md)
 - [lintcode 433 number of lslands](2020-08-30/433%20number%20of%20islands.md)
-- [lintcode 616 course schedule ii](2020-08-31/616%20course%20schedule%20ii.md)
 - [lintcode 618 search graph nodes](2020-09-01/618%20search%20graph%20nodes.md)
 
 深度优先搜索
@@ -40,3 +39,7 @@
 
 区间动态规划
 - [lintcode 168 burst balloons](2020-09-11/168%20burst%20balloons.md)
+
+拓扑排序
+- [lintcode 616 course schedule ii](2020-08-31/616%20course%20schedule%20ii.md)
+- [leetcode 685 redundant connection ii](2020-09-17/685%20redundant-connection-ii.md)
