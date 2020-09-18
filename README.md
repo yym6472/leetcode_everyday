@@ -14,8 +14,13 @@
 - [lintcode 618 search graph nodes](2020-09-01/618%20search%20graph%20nodes.md)
 
 深度优先搜索
-- [lintcode 90 k sum ii](2020-09-02/90%20k%20sum%20ii.md)
 - [lintcode 1681 cut the cake](2020-09-15/1681%20cut%20the%20cake.md)
+
+深度优先搜索（排列型）
+- [47.全排列-ii](2020-09-18/47.全排列-ii.md)
+
+深度优先搜索（组合型）
+- [lintcode 90 k sum ii](2020-09-02/90%20k%20sum%20ii.md)
 
 栈、队列和优先队列（堆）
 - [lintcode 81 find median from data stream](2020-09-03/81%20find%20median%20from%20data%20stream.md)
