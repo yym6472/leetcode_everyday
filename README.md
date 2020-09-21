@@ -39,6 +39,9 @@
 - [lintcode 928 longest substring with at most two distinct characters](2020-09-07/928%20longest%20substring%20with%20at%20most%20two%20distinct%20characters.md)
 - [lintcode 32 minimum-window-substring](2020-09-14/32%20minimum-window-substring.md)
 
+相向双指针
+- [leetcode 15 3sum](2020-09-21/15.三数之和.md)
+
 二分查找
 - [lintcode 183 wood cut](2020-09-08/183%20wood%20cut.md)
 
